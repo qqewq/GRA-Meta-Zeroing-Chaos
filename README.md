@@ -1,3 +1,4 @@
+https://doi.org/10.5281/zenodo.18514217
 # 🧠 GRA Мета-обнулёнка: Странный аттрактор мультиверса
 
 ![Статус](https://img.shields.io/badge/статус-экспериментально%20подтверждено-green.svg)
@@ -18,3 +19,4 @@ chmod +x compile.sh
 ./compile.sh  # → paper.pdf
 pip install -r requirements.txt
 jupyter notebook notebooks/
+
